@@ -1,0 +1,13 @@
+title;description;url;image
+Todo App;A distraction-free web app to help you focus on creating and completing tasks.;https://github.com/gabrielbisiriyu/app0-ToDoApp;images/1.png
+Portfolio Website;A website built entirely in Python to showcase coding projects and apps.;https://github.com/gabrielbisiriyu/app1-PortfolioWebsite;images/2.png
+PDF Templates;A script that generates PDF templates of multiple pages given some predefined guidelines.;https://github.com/gabrielbisiriyu/app2-PDFGEN;images/3.png
+PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/gabrielbisiriyu/app3-PDF_EXCEL-INVOICE;images/4.png
+Positive News Site;A website that gets data from a news API and uses sentiment analysis to publish only positive news.;https://github.com/gabrielbisiriyu/app4-DailyNewsDigest;images/5.png
+Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/gabrielbisiriyu/app5-API;images/6.png
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/gabrielbisiriyu/app9-MusicEventWebScrapper;images/8.png
+Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://github.com/gabrielbisiriyu/app15-ChatBot;images/9.png
+Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/gabrielbisiriyu/app8-WebcamMonitoringEmailAllert;images/11.png
+Visualizing Weather Forecast;A data web app that visualizes the weather forecast for the next five days of any city.;https://github.com/gabrielbisiriyu/app6-WeatherForecast;images/16.png
+Student Management System;A desktop PyQt6 GUI app for managing university student data with an SQL database backend.;https://github.com/gabrielbisiriyu/app14-StudentManagementWithMYSQL;images/17.png
+Restaurant Menu Web App;A Django web app to let customers see a restaurant menu and meal availability.;https://github.com/gabrielbisiriyu/app18-RestaurantApp;images/19.png
