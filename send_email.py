@@ -12,9 +12,7 @@ def send_email_now(email,form_filler_message):
     receiver="guyex1996@gmail.com" 
 
     subject="Subject: JOB NOTIFICATION"+" \n"
-    #subject="subject:Job Don Land \n"
-    #message='''i decide to do this again
-    #cheers'''     
+     
     form_filler_message=subject+form_filler_message +'\n'+ email 
     my_context=ssl.create_default_context() # FOR SENDING SECURE EMAIL  
 

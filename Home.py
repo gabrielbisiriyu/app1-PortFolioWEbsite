@@ -9,8 +9,8 @@ with col1:
 with col2:
     st.title("Gabriel Bisiriyu") 
     content='''
-    Hi, i am Gabriel Bisiriyu. I am a python programmer,designer and a seasoned utility tester.
-    I am a Computer Engineering student of the University Of Lagos in Nigeria     
+    Hi, i am Gabriel Bisiriyu. I am a  programmer.  \nWelcome to my portfolio website.
+         
         '''
     st.info(content)    
 
